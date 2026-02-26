@@ -45,3 +45,4 @@ while True: # Äußere Schleife - eine neue Runde starten
         break
     
 
+

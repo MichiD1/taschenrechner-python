@@ -1,5 +1,3 @@
-# Taschenrechner in Python
-
 # Python-Projekte von MichiD1
 
 Dieses Repository enthält zwei kleine Python-Programme, die ich im Rahmen meines Lernens erstellt habe.

@@ -8,17 +8,11 @@ def eingabe_zahl():
 while True: 
     geheime_zahl = random.randint(1, 10) 
     versuche = 0    
-    
-
-
     while True: 
         eingabe = eingabe_zahl()    
         versuche += 1   
-    
-        
         if eingabe == geheime_zahl: 
             print(f"Richtig! Du hast die Zahl in {versuche} Versuchen erraten.")
-            
             break    
         elif eingabe < geheime_zahl:  
             print("Zu niedrig!")
@@ -32,4 +26,5 @@ while True:
         print("Danke fürs Spielen! Auf Wiedersehen!")
         break
     
+
 

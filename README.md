@@ -18,7 +18,7 @@ Ein interaktives Programm, das zwei Zahlen einliest, Grundrechenarten (+, -, *, 
 
 ## 2. Zufalls-Ratespiel
 
-Der Spieler muss eine zufällige Zahl zwischen 1 und 10 erraten. Maximal 5 Versuche pro Runde, Highscore wird gespeichert.
+Der Spieler muss eine zufällige Zahl zwischen 1 und 10 erraten. Maximal 4 Versuche pro Runde.
 
 ### Nutzung
 

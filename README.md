@@ -1,27 +1,21 @@
-# Python-Projekte von MichiD1
+# Python Mini Projects
 
-Dieses Repository enthält zwei kleine Python-Programme, die ich im Rahmen meines Lernens erstellt habe.
+Dieses Repository enthält kleine Python-Projekte, die ich zum Lernen erstellt habe.
 
-## 1. Taschenrechner
+## Projekte
 
-Ein interaktives Programm, das zwei Zahlen einliest, Grundrechenarten (+, -, *, /), Prozentrechnung unterstützt, Fehler abfängt und wiederholt benutzt werden kann.
+### Taschenrechner
+Ein einfacher Konsolen-Taschenrechner mit:
+- Addition
+- Subtraktion
+- Multiplikation
+- Division
+- Prozentrechnung
+- Fehlerbehandlung
 
-## Nutzung
+### Zahlenratespiel
+Der Spieler muss eine zufällige Zahl erraten.
+Maximal 4 Versuche pro Runde.
 
-1. Python 3 starten
-2. `taschenrechner.py` ausführen
-3. Zahlen und Operatoren eingeben
-
----
-
-## 2. Zufalls-Ratespiel
-
-Der Spieler muss eine zufällige Zahl zwischen 1 und 10 erraten. Maximal 4 Versuche pro Runde.
-
-### Nutzung
-
-1. Python 3 starten
-2. `zufalls_raten.py` ausführen
-3. Zahlen eingeben und raten
-
----
+## Notes
+Der Ordner "notes" enthält meine Lernnotizen zu den Programmen.

@@ -25,7 +25,7 @@ Ein automatisiertes Administrations-Werkzeug zur kontinuierlichen Überwachung k
 - **Funktionen**: Prüft Server-Erreichbarkeiten via Ping-Befehl automatisiert im Netzwerk und gibt visuelle Farb-Alarme (grüne/rote Punkte) bei Systemausfällen aus.
 
 ### 4. Hardware-Lagerverwaltung & Scripts (`/kleine-tools`)
-Ein interaktimes Programm zur Verwaltung von Firmen-Hardware sowie kleine Konsolen-Skripte zur Festigung der grundlegenden Programmierlogik (Schleifen, Bedingungen und Fehlerbehandlung).
+Ein interaktives Programm zur Verwaltung von Firmen-Hardware sowie kleine Konsolen-Skripte zur Festigung der grundlegenden Programmierlogik (Schleifen, Bedingungen und Fehlerbehandlung).
 - **Inhalt**: `lager.py` (Geräte registrieren, Lagerliste auslesen, IDs löschen), Taschenrechner & Zahlenratespiel.
 
 ### 5. Enterprise IT-Security & Infrastructure Guide (`IT_SECURITY_GUIDE.md`)
